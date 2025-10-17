@@ -3,6 +3,8 @@
 A **Next.js + TypeScript** registration form with **client-side validation** and **automated tests** using **Jest** and **React Testing Library**.  
 It provides clear form feedback across multiple states — `idle`, `warning`, `failure`, and `success`.
 
+**Preview here: https://z7n6c6-3000.csb.app/**
+
 ---
 
 ## Approach to Solving the Problem
@@ -48,7 +50,7 @@ The project includes **unit tests** written with **Jest** and **React Testing Li
 
 AI (ChatGPT & Gemini) was used primarily as a **pair programming assistant** to:
 
-- Help troubleshoot broken code, e.g. syntax issues, implementing new frameworks not included in Codesandbox template (Jest & Vanta)
+- Help troubleshoot broken code, e.g. syntax fixes, issues with implementing new frameworks not included in Codesandbox template (Jest & Vanta)
 - Help refactor working code
 - Learn about and implement Jest (the only other testing framework I had used before this was Vitest)
 
